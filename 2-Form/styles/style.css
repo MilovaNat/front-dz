@@ -1,0 +1,41 @@
+main{
+    background-color: #F39494;
+}
+
+form{
+    background-color: #FFFEFE;
+}
+
+a{
+    color: #089FE0;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    color: #666666;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: #333333;
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+label {
+    color: #666666;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button {
+    background-color: #089FE0;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+}
+input {
+    background-color: #F5F5F5;
+    font-family: 'Open Sans', sans-serif;
+}
